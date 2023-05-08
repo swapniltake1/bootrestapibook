@@ -16,3 +16,14 @@ Updating and deleting book records can be done using the PUT and DELETE methods,
 To provide feedback and indicate the success or failure of each operation, the API returns appropriate HTTP status codes. These codes help to indicate whether the request was processed successfully or encountered any errors. For example, a 200 status code indicates a successful request, while a 404 code signifies that the requested resource was not found.
 
 Overall, my demo book REST API built with Spring Boot, along with the use of Postman for testing, allows you to perform CRUD operations on book data efficiently while ensuring proper HTTP status codes are returned to indicate the outcome of each operation.
+
+# If You want to view status codes in postman 
+
+https://www.postman.com/swapniltake/workspace/restapitesting/collection/26451796-4dac2b81-1af6-4d21-8742-195a3973a6f4?action=share&creator=26451796
+
+# ScreenShots : 
+
+![image](https://user-images.githubusercontent.com/61576958/236659142-557e2f14-7b07-4d5b-ba2d-7aec1fc6d7d0.png)
+
+
+![image](https://user-images.githubusercontent.com/61576958/236659153-1eb44fc0-cf2f-4b09-ae68-0d1982a02164.png)
